@@ -1,0 +1,28 @@
+name: wolfer
+favicon: null
+layout_spectrum: 0.46059009060263634
+typography_spectrum: 0.4675373020581901
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.29126116749830544
+  lightness: 0.32006462290883064
+  saturation: 0.41151947248727083
+  rhythmicContrast: 0.6897184997797012
+purpose: []
