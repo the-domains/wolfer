@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Wolfer Melodic Hardcore]]></title>
         <description><![CDATA[Wolfer Melodic Hardcore]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wolfer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 19:14:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 19:16:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wolfer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ec88258-559a-4c7b-a14e-b8b2825f0d17.png">]]></description>
+            <link>https://thegrid.ai/wolfer/165c6f53-d1cd-4a5f-aac4-e62db431dc0f/index.html</link>
+            <guid isPermaLink="false">165c6f53-d1cd-4a5f-aac4-e62db431dc0f</guid>
+            <pubDate>Fri, 12 Feb 2016 19:15:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c163d75-5174-4650-8efa-6aa081dd7d87.jpg">]]></description>
+            <link>https://thegrid.ai/wolfer/6b2673cc-b832-4937-a4b6-e19118ce7e3e/index.html</link>
+            <guid isPermaLink="false">6b2673cc-b832-4937-a4b6-e19118ce7e3e</guid>
+            <pubDate>Fri, 12 Feb 2016 19:14:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c459770e-9a11-464d-ba9b-9efe5e0bd1e7.png">]]></description>
-            <link>undefined36cef795-6373-46d7-8ec3-5f4909744d50/index.html</link>
+            <link>https://thegrid.ai/wolfer/36cef795-6373-46d7-8ec3-5f4909744d50/index.html</link>
             <guid isPermaLink="false">36cef795-6373-46d7-8ec3-5f4909744d50</guid>
             <pubDate>Fri, 12 Feb 2016 19:13:37 GMT</pubDate>
         </item>
