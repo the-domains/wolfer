@@ -1,4 +1,4 @@
-name: wolfer
+name: Wolfer
 favicon: null
 layout_spectrum: 0.46059009060263634
 typography_spectrum: 0.4675373020581901
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.29126116749830544
+  brandStrength: 0.9375
   lightness: 0.32006462290883064
-  saturation: 0.41151947248727083
+  saturation: 0.125
   rhythmicContrast: 0.6897184997797012
 purpose: []
