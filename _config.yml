@@ -1,20 +1,4 @@
-name: Wolfer
-favicon: null
-layout_spectrum: 0.4291
 typography_spectrum: 0.88243
-title: Wolfer Melodic Hardcore
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#202830'
@@ -26,4 +10,24 @@ color:
   lightness: 0.125
   saturation: 0.75
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4291
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Wolfer
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Photo's
+    id: 165c6f53-d1cd-4a5f-aac4-e62db431dc0f
+    type: content
+favicon: null
+title: Wolfer Melodic Hardcore
 purpose: []
